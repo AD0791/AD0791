@@ -1,24 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Didier Ganthier
-=======================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandro Disla
 
-Full-Stack Developer
---------------------
+## Full-Stack Developer
 
 Full-Stack Software Developer with a love for React, Flutter, Rust, and TypeScript. I love riddles, challenges, and philosophy. Open to new opportunities.
 
-*   🌍  I'm based in Port-au-Prince
-*   🖥️  See my portfolio at [this link](http://bit.ly/didiergaanthier)
-*   ✉️  You can contact me at [didierganthierperan@gmail.com](mailto:didierganthierperan@gmail.com)
-*   🚀  I'm currently working on [Math magicians](http://github.com/didierganthier/math-magicians)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on Haiti Blockchain Alliance
-*   ⚡  I'm secretely Spiderman... but don't tell anyone
+- 🌍  I'm based in Port-au-Prince
+- 🖥️  See my portfolio at [this link](http://bit.ly/didiergaanthier)
+- ✉️  You can contact me at [didierganthierperan@gmail.com](mailto:didierganthierperan@gmail.com)
+- 🚀  I'm currently working on [Math magicians](http://github.com/didierganthier/math-magicians)
+- 🧠  I'm learning React
+- 🤝  I'm open to collaborating on Haiti Blockchain Alliance
+- ⚡  I'm secretely Spiderman... but don't tell anyone
 
 <a href="https://www.twitter.com/didierganthier_" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/didierganthier_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/didierganthier" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/didierganthier?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
- ### Skills 
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
