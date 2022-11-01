@@ -49,6 +49,10 @@ An individual capable of solving real world problem with code is a **programer**
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/numpy.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/plotly.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spring.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ruby.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/julia.svg" />
 </p>                    
  ### Socials              
  <p align="left">
