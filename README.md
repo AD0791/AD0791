@@ -53,16 +53,16 @@ An individual capable of solving real world problem with code is a **programer**
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ruby.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/julia.svg" />
-</p>                    
- ### Socials              
+</p>
+
+### Socials
+
  <p align="left">
  <a href="https://www.github.com/AD0791" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/alexandro-disla-98160994/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AD0791"><img src="https://github-readme-stats.vercel.app/api?username=AD0791&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AD0791's GitHub stats" /></a>
 <a href="http://www.github.com/AD0791"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AD0791&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
